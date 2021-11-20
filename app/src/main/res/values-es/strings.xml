@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Almacén de Cortinas</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Clave</string>
+    <string name="action_sign_in">Ingreso/Registro</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="txt_welcome">Bienvenid@ !"</string>
+    <string name="invalid_username">Nombre de usuario no válido</string>
+    <string name="invalid_password">La Clave debe ser > 5 caracteres</string>
+    <string name="txt_user">Usuario</string>
+    <string name="edt_password">********</string>
+    <string name="edt_user">email@email.com</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="btn_CheckIn">Registrarse</string>
+    <string name="btn_save">Guardar</string>
+    <string name="txt_cancel">Cancelar</string>
+    <string name="txt_ok">OK</string>
+
+
+    <string name="txt_tSaleRegister">Registro de Ventas</string>
+    <string name="txt_ClientSale">Nombre de Cliente</string>
+    <string name="txt_CodProductSale">Código del Producto</string>
+    <string name="txt_DescriptSale">Descripción</string>
+    <string name="txt_ValueSale">Valor</string>
+    <string name="txt_CantSale">Cantidad</string>
+    <string name="edt_ProductSale">Tipo</string>
+    <string name="txt_name">Nombre</string>
+    <string name="hint_name">Nombre completo</string>
+    <string name="txt_id">Identificación</string>
+    <string name="hint_id">Número de identificación</string>
+    <string name="txt_email">Correo electrónico</string>
+    <string name="hint_email">email@email.com</string>
+    <string name="txt_password">Clave</string>
+    <string name="hint_password">Su clave</string>
+    <string name="txt_tSellerRegister">Registro de Vendedores</string>
+    <string name="txt_tAdvanceRegister">Registro de Abonos</string>
+    <string name="txt_tProductRegister">Registro de Productos</string>
+
+</resources>
